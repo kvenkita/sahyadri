@@ -12,7 +12,7 @@ The theme will work for RStudio version 1.2 +
 
   1. Make sure that you have the latest version of RStudio [at least v1.2,](https://blog.rstudio.com/2019/04/30/rstudio-1-2-release/)
   
-  2. Run this one line of R code! `rstudioapi::addTheme("https://raw.githubusercontent.com/kvenkita/sahyadri/master/sahyadri.rstheme", TRUE, TRUE, FALSE)`
+  2. Run this code in R `rstudioapi::addTheme("https://raw.githubusercontent.com/kvenkita/sahyadri/master/sahyadri.rstheme", TRUE, TRUE, FALSE)`
 
 ## Uninstallation / Change Theme
 
