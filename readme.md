@@ -1,10 +1,10 @@
 # Sahyadri
 
-A RStudio theme inspired by the beautiful [Western Ghats](https://en.wikipedia.org/wiki/Western_Ghats) of India
+Dark RStudio theme inspired by the beautiful [Western Ghats](https://en.wikipedia.org/wiki/Western_Ghats) of India
 
 ![](example.png)
 
-This dark theme combines distinct hues of the tropical rainforests and highlands of South-Western India. The theme is designed for rmarkdown documents and presentations with focus on clearly distinguishing markdown, r code, text and comments. 
+This dark theme combines distinct hues of the tropical rainforests and highlands of South-Western India. The theme is designed for rmarkdown documents and presentations with focus on clearly distinguishing markdown, r code (numbers, strings, signs), text and comments. 
 
 The theme will work for RStudio version 1.2 + 
 
